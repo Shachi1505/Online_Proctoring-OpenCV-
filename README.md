@@ -39,6 +39,6 @@ This project is a real-time proctoring tool using computer vision. It detects an
 - For best results, use in a well-lit environment with your face clearly visible to the webcam.
 
 ---
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/50634f13-32f3-4647-ba88-fe060a891165" />
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/0f170a93-6145-4d91-8796-055660381cec" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/50634f13-32f3-4647-ba88-fe060a891165" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/0f170a93-6145-4d91-8796-055660381cec" />
 
